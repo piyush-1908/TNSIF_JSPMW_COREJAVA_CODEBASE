@@ -12,8 +12,7 @@ public class nestedifelse {
 			else {
 				System.out.println(c);
 			}
-		}
-		else {
+		}else {
 			if(c>b) {
 				System.out.println(c);
 			}
